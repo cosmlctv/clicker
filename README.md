@@ -4,7 +4,7 @@ A fun and addictive coconut clicking idle game where you click to earn coconuts 
 
 ## 🎮 Play Now
 
-**[Click here to play the game!](https://cosmlctv.github.io/clicker/)**
+**[Click here to play the game!](https://cosmlctv.github.io/clicker.github.io/)**
 
 ## ✨ Game Features
 
